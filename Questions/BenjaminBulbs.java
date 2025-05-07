@@ -17,6 +17,6 @@ public class BenjaminBulbs {
             System.out.println("Number of bulbs that are on : " +i * i);
         }
         scn.close();
-;    }
+    }
     
 }

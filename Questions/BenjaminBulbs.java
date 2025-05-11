@@ -1,8 +1,8 @@
-//You are given n number of bulbs. They are all switched off. A wired fluctuation in voltage hitsthe circuit n times.
-//In first fluctuation all bulbs are toggled. In second fluctuation every second bulb is toggled. In third fluctuation every third bulb is toggled and so on.
-//You have to find which bulbs will be switched on after fluctuations.
-//take as input a number n representing the number of bulbs
-//print all the bulbs that will be on after the nth fluctuation in voltage
+// You are given n number of bulbs. They are all switched off. A wired fluctuation in voltage hitsthe circuit n times.
+// In first fluctuation all bulbs are toggled. In second fluctuation every second bulb is toggled. In third fluctuation every third bulb is toggled and so on.
+// You have to find which bulbs will be switched on after fluctuations.
+// take as input a number n representing the number of bulbs
+// print all the bulbs that will be on after the nth fluctuation in voltage
 
 
 import java.util.Scanner;
